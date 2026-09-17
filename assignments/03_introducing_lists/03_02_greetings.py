@@ -1,6 +1,7 @@
 '''
 Joseph Duran 
 Chapter 3
+This list shows some greatings.
 '''
 
 name = [" Alex ", "Joseph! ", " Jose ", ", Michael? "]

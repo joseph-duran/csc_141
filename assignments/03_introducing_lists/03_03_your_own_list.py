@@ -1,7 +1,7 @@
 '''
 Joseph Duran
 Chapter 3
-
+This list shows cars and messages.
 '''
 
 
