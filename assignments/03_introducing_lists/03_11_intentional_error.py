@@ -1,7 +1,7 @@
 '''
 Joseph Duran
 Chapter 3
-This list shows an entional error.
+This list shows an intentional error.
 '''
 
 

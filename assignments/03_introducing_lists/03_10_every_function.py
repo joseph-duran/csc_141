@@ -1,7 +1,7 @@
 '''
 Joseph Duran
 Chapter 3
-This list shows evry fuction.
+This list shows evry function.
 '''
 
 Music_artist = ['Drake', 'Bruno Mars', 'Taylor Swift', 'Ariana Grande', 'Brent Faiyaz']
